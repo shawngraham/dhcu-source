@@ -1,4 +1,4 @@
-baseurl = "https://shawngraham.github.io/dhcu/"
+baseurl = "https://dhcu.ca/"
 title = "dhcu.ca"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -17,6 +17,7 @@ googleAnalytics = ""
     "A graduate seminar in the digital humanities, asking:",
     "<i>What should undergrads know about DH?</i>",
     "Your mission: to write <b>the</b> book.",
+    "Caveat Lector: All readings listed are mere <i>possibilities</i> and do not necessarily represent <i>canon</i>. Let them be the starting point for your explorations.",
     "Carleton University<br> DIGH5000, 2017-2018"
   ]
   # Contact page
@@ -43,6 +44,10 @@ googleAnalytics = ""
   url = "portfolio/syllabus/"
 
   [[params.navlinks]]
+  name = "Tutorials"
+  url = "portfolio/tutorials/"
+
+  [[params.navlinks]]
   name = "Shawn Graham"
   url = "about/"
 
@@ -58,4 +63,4 @@ googleAnalytics = ""
   # linkedin      = "full profile url in linkedin"
   # stackoverflow = "full profile url in stackoverflow"
   # instagram     = "full profile url in instagram"
-  github        = "http://shawngraham.github.io"
+  github        = "https://github.com/shawngraham"
