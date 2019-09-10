@@ -29,8 +29,12 @@ Morgan, Colleen and Judith Winters. 2015 'Introduction: Critical Blogging in Arc
 
 Posner, Miriam. 2017. 'Javascript is for Girls' _The Guardian_ <https://www.theguardian.com/technology/2017/mar/14/tech-women-code-workshops-developer-jobs> or <https://escholarship.org/uc/item/5sd1x9kf>
 
+Schroeder, R. 2017. ["What is Public Humanities?"](https://dayofph.wordpress.com/what-is-public-humanities/)
+
 Shaffer, K. 2017 'Spot a Bot: Identifying Automation and Disinformation on Social Media' <https://medium.com/data-for-democracy/spot-a-bot-identifying-automation-and-disinformation-on-social-media-2966ad93a203>
 
 Shaffer, K. 2017 'Twitter propaganda during 'Unite the Right' <http://pushpullfork.com/2017/08/twitter-propaganda-during-unite-the-right/>
+
+
 
 _Cover Image Eliot Peper, Unsplash_

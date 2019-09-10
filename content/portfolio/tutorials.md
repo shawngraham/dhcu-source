@@ -13,7 +13,9 @@ Hands On DH
 
 We will do, as a group during our meetings, a wide variety of tutorials as seem appropriate to the subject matter. These will largely come from [The Programming Historian](https://programminghistorian.org/lessons/) or my own collection.
 
-For starters, before the first meeting of the class, you should give Exercises 1 - 4 a whirl from my first module of the Crafting Digital History Workbook <http://workbook.craftingdigitalhistory.ca/module-1/Exercises/>
+I have also created a textbook with an integrated computer, accessible at [o-date.github.io](http://o-date.github.io). By 'integrated computer', I mean a machine you can use and access via your webbrowser. It's not for long term computing, but just to get the hang of various kinds of code and so on.
+
+You might also want to give Exercises 1 - 4 a whirl from my first module of the Crafting Digital History Workbook <http://workbook.craftingdigitalhistory.ca/module-1/Exercises/> but this is not mandatory.
 
 ## Your Own Personal DH Computer
 
@@ -21,7 +23,7 @@ You should never feel that you have to do any computing work in isolation; it's 
 
 Everyone's machine is different. Everyone's familiarity and comfort level with things digital is different. Everyone has aptitude for this work; they just might not have had an opportunity to practice, or have guidance. As you can imagine, these truths present several challenges to teaching and learning. Insofar as any of these can be mitigated, having the same computing setup helps, and so we are using our own version of the [DHBox](http://dhbox.org), a virtual Ubuntu computer pre-loaded with many useful digital humanities tools that you may access through any web browser.
 
-If you are on campus or are logged into Carleton's systems via a VPN, go to <http://134.117.26.132:5000/signup>.
+If you are on campus or are logged into Carleton's systems via a VPN, go to <http://134.117.26.132:5000/signup>. 
 Select a username, password, and your email address. Your username must be four characters or longer. Then select '1 month'. Then select launch.
 
 You now have a virtual computer that you can use for the next month. (When the month expires, you have to create a new dhbox for yourself; your old one will be completely deleted. This is to conserve space. Before the month ends, always download your materials from the DHBox!)
@@ -46,4 +48,4 @@ For OCR'ing pdfs, try [this package for R](https://ropensci.org/blog/technotes/2
 
 A handful of videos that you might find useful are collected [here](https://screencast-o-matic.com/channels/cbjqb2vpi)
 
-_Cover Image Dominik Scythe, Unsplash_ 
+_Cover Image Dominik Scythe, Unsplash_

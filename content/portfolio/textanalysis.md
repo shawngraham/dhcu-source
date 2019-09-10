@@ -17,15 +17,21 @@ Clement, Tanya et al., 2008 "How Not to Read a Million Books". http://www.people
 
 Clement, Tanaya. 2013. "Text Analysis, Data Mining, and Visualizations in Literary Scholarship" <https://dlsanthology.mla.hcommons.org/text-analysis-data-mining-and-visualizations-in-literary-scholarship/>
 
+Crawford, Kate, and danah boyd. 2012. ["Critical Questions for Big Data: Provocations for a Cultural, Technological, and Scholarly Phenomenon,"](http://www.danah.org/papers/2012/BigData-ICS-Draft.pdf) ICS 15 2012
+
 Graham, S., I Milligan, S. Weingart _The Historian’s Macroscope: Big Digital History_ <http://www.themacroscope.org/?page_id=113>
 
-Healy, Kieran. 'Using Metadata to Find Paul Revere' <https://kieranhealy.org/blog/archives/2013/06/09/using-metadata-to-find-paul-revere/>
+Mazzaschi, Andrew, ed, [Signs@40: Feminist Scholarship through Four Decades](http://signsat40.signsjournal.org/).
 
 Michel, Jean-Baptiste, et al. 2011 "Quantitative Analysis of Culture Using Millions of Digitized Books," Science Vol. 331, 176 (14 January 2011). <http://www.librarian.net/wp-content/uploads/science-googlelabs.pdf>
 
 Moravec, Michelle. 'Corpus Linguistics for Historians' <http://historyinthecity.blogspot.ca/2013/12/corpus-linguistics-for-historians.html>
 
+Nguyen, Dong, Maria Liakata, Simon DeDeo, Jacob Eisenstein, David Mimno, Rebekah Tromble, and Jane Winters. 2019. ["How We Do Things with Words: Analyzing Text as Social and Cultural Data"](https://arxiv.org/abs/1907.01468)
+
 Rockwell, Geoffrey "What is Text Analysis, Really?," _Literary and Linguistic Computing_ 18.2 (2003): 209-220. <https://doi.org/10.1093/llc/18.2.209>
+
+Sagner Buurma and Laura Heffernan, ["Search and Replace: Josephine Miles and the Origins of Distant Reading,"](https://modernismmodernity.org/forums/posts/search-and-replace) M/m (2016)
 
 Journal of Cultural Analytics <http://culturalanalytics.org/>
 

@@ -14,7 +14,7 @@ This course intends to uncover a broad swathe of the current body of practices, 
 
 + 20% Open Notebook Research
 + 20% Collegiality and [Generous Thinking](http://www.plannedobsolescence.net/generous-thinking-the-university-and-the-public-good/)
-+ 60% The DH-X Project: A Textbook for Undergraduate Digital Humanities
++ 60% The Landscape of DH in Ottawa
   + 20% Research
   + 20% Service
   + 20% Teaching
@@ -50,9 +50,9 @@ Collegiality also entails attending and being prepared for all of our meetings.
 This aspect of the course is graded exceptional / pass / fail.
 
 
-## The DH-X Project
+## Mapping the Landscape of DH in Ottawa
 
-Our meetings do double duty. They are not just for exploring the different facets of the digital humanities, learning various techniques, and exploring others' work, but also, for sifting through the volumes of material **to identify the things that undergraduates should know about the digital humanities. We will then pull these materials together into a textbook, which we will publish**. The content, organization, and production of this textbook, and the management of this project, will be up to all of you. The grading breaks down as follows:
+Our meetings do double duty. They are not just for exploring the different facets of the digital humanities, learning various techniques, and exploring others' work. They are also to figure out just what is going on in DH in Ottawa, in advance of [DH2020](http://dh2020.adho.org). The content, organization, and production of this project (what exactly is a 'map'?), and the management of this project, will be up to all of you. The grading breaks down as follows:
 
 + 20% **Research** research to write an accurate and up to date text
 + 20% **Service**  the work involved in project management, organization, 'back-end' production
@@ -61,8 +61,6 @@ Our meetings do double duty. They are not just for exploring the different facet
 Each of you is expected to do your equitable (nb: not necessarily 'equal') share.
 
 ![Equity vs Equality Credit: United Way of the Columbia-Willamette][1] <Br>(Credit: United Way of the Columbia-Willamette)
-
-You are not starting cold: you may dismember, improve, remix, or rejig the materials from my own open-access workbook for doing digital history [here](http://workbook.craftingdigitalhistory.ca).
 
 This aspect of the course will be graded based on a self-assessment and final interview.
 

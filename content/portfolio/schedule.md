@@ -10,7 +10,9 @@ Meeting times and other important information
 
 <!--more-->
 
-_Because our class meets irregularly on a Monday, various holidays and long weekends mean that we could go for quite some time before seeing one another. To mitigate this, our first in-person meeting will not happen until **October 2nd**, though you will have work to do before that meeting. I also expect that you will make use of our chat space in Slack during the intervals._
+Tory Building, rm 213. 11.35-2.35 am
+
+Because our class meets **irregularly** on a Tuesday, our first in-person meeting will not happen until **October 1st**, though you will have work to do before that meeting. I also expect that you will make use of our chat space in Slack during the intervals.
 
 I would like to meet with you individually before we meet as a group. Please email me at shawn dot graham at carleton dot ca to make an appointment.
 
@@ -25,109 +27,109 @@ Before our **first meeting as a group**:
 During our first meeting on October 2nd, we will work together to set up our open notebooks, and to learn some basic version control and collaboration software (see [tutorials](/portfolio/tutorials/)). We will discuss how this class is set up, the kind of work I am expecting from you, and we will decide which topics we would like to discuss when, filling out the schedule below. We will also explore the current state of play regarding '[open educational resources](/portfolio/publishing/).'
 
 
+```
+October 2019      
+Su Mo Tu We Th Fr Sa  
+       1  2  3  4  5  
+ 6  7  8  9 10 11 12  
+13 14 15 16 17 18 19  
+20 21 22 23 24 25 26  
+27 28 29 30 31
+```
+
+
+> October 1st: What is DH and Why Does It Matter? Led by Shawn
+
+> October 15:
+
+**October 21-25 Fall Break No Class**
+
+> October 29:
 
 ```
-October 2017
-Su Mo Tu We Th Fr Sa
- 1  2  3  4  5  6  7
- 8  9 10 11 12 13 14
-15 16 17 18 19 20 21
-22 23 24 25 26 27 28
+November 2019      
+Su Mo Tu We Th Fr Sa  
+                1  2  
+ 3  4  5  6  7  8  9  
+10 11 12 13 14 15 16  
+17 18 19 20 21 22 23  
+24 25 26 27 28 29 30  
+```
+> November 12:
+
+I *might* be traveling this week; if so, we'll re-arrange. I'll know better by mid-October.
+
+> November 26:
+
+```
+December 2019      
+Su Mo Tu We Th Fr Sa  
+ 1  2  3  4  5  6  7  
+ 8  9 10 11 12 13 14  
+15 16 17 18 19 20 21  
+22 23 24 25 26 27 28  
 29 30 31
 ```
+> December 3:
 
-> October 2nd:
+_Dec 6 is the last day of Fall term_
 
-**October 9 Statutory Holiday; University Closed**
-
-> October 16:
-
-> October 30:
 
 ```
-November 2017
-Su Mo Tu We Th Fr Sa
-          1  2  3  4
- 5  6  7  8  9 10 11
-12 13 14 15 16 17 18
-19 20 21 22 23 24 25
-26 27 28 29 30
+January 2020      
+Su Mo Tu We Th Fr Sa  
+          1  2  3  4  
+ 5  6  7  8  9 10 11  
+12 13 14 15 16 17 18  
+19 20 21 22 23 24 25  
+26 27 28 29 30 31
 ```
-> November 13
+_Term begins on January 6th._
 
-> November 27
+> Jan 7:
 
-```
-December 2017
-Su Mo Tu We Th Fr Sa
-                1  2
- 3  4  5  6  7  8  9
-10 11 12 13 14 15 16
-17 18 19 20 21 22 23
-24 25 26 27 28 29 30
-31
-```
-> Dec 8:
-
-_Dec 8 is the last day of Fall term; classes follow a Monday Schedule_
-
-January 8th Winter term begins
+> Jan 21:
 
 ```
-January 2018
-Su Mo Tu We Th Fr Sa
-    1  2  3  4  5  6
- 7  8  9 10 11 12 13
-14 15 16 17 18 19 20
-21 22 23 24 25 26 27
-28 29 30 31
-```
-> Jan 8:
-
-> Jan 22:
-
-```
-February 2018
-Su Mo Tu We Th Fr Sa
-             1  2  3
- 4  5  6  7  8  9 10
-11 12 13 14 15 16 17
-18 19 20 21 22 23 24
-25 26 27 28
+February 2020      
+Su Mo Tu We Th Fr Sa  
+                   1  
+ 2  3  4  5  6  7  8  
+ 9 10 11 12 13 14 15  
+16 17 18 19 20 21 22  
+23 24 25 26 27 28 29
 ```
 
-> Feb 5
+> Feb 4:
 
-**Feb 19 - 23rd University Closed Winter break**
+**Feb 17 - 21st University Closed Winter break**
 
-> Feb 26
-
-```
-March 2018
-Su Mo Tu We Th Fr Sa
-             1  2  3
- 4  5  6  7  8  9 10
-11 12 13 14 15 16 17
-18 19 20 21 22 23 24
-25 26 27 28 29 30 31
-```
-
-> March 12
-
-> March 26
-
-**March 30th Statutory Holiday; University Closed**
+> Feb 25:
 
 ```
-April 2018
-Su Mo Tu We Th Fr Sa
- 1  2  3  4  5  6  7
- 8  9 10 11 12 13 14
-15 16 17 18 19 20 21
-22 23 24 25 26 27 28
-29 30
+March 2020       
+Su Mo Tu We Th Fr Sa  
+ 1  2  3  4  5  6  7  
+ 8  9 10 11 12 13 14  
+15 16 17 18 19 20 21  
+22 23 24 25 26 27 28  
+29 30 31   
 ```
 
-> April 9
+> March 10:
 
-**April 11 last day of term**
+> March 24:
+
+```
+April 2020       
+Su Mo Tu We Th Fr Sa  
+          1  2  3  4  
+ 5  6  7  8  9 10 11  
+12 13 14 15 16 17 18  
+19 20 21 22 23 24 25  
+26 27 28 29 30        
+```
+
+> April 7:
+
+**April 7 last day of term**

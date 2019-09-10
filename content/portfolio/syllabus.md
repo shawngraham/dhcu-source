@@ -18,22 +18,20 @@ Well, still no good answer, which is great, for it gives us much territory to ex
 
 We will read, and we will make. We will build!
 
-Let us begin.
+Let us begin. Take a look at Matthew G. Kirschenbaum, ["What is Digital Humanities, and What's It Doing in English Departments?"](https://mkirschenbaum.files.wordpress.com/2011/01/kirschenbaum_ade150.pdf) ADE Bulletin 2010.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/552XZy7MFRg" frameborder="0" allowfullscreen></iframe>
 
+_I am grateful to people like Ted Underwood, Alan Liu, Miriam Posner, Tanya Clement for sharing their syllabi online; and also to the broader DH community on Twitter for sharing and discussing materials_.
+
 ## Required materials
 
-+ A free account for Slack <https://dhcu-2017.slack.com/> which handles our
-    private communications (make sure to 'take the tour' once you sign up)
++ A free account for Slack (our space is 'https://dhcu-2019.slack.com'). You will receive an invitation email from me by the end of September- check your spam folder if it hasn't turned up by October 2nd or email me!
 + An account on Github <http://github.com>
 + An account with Hypothesis <https://web.hypothes.is/>
-+ Twitter is optional, but most digital humanities folks are on there,
-    and that's where a lot of the field is discussed ([Amanda French](https://twitter.com/amandafrench/) and [Dan
-    Cohen](https://twitter.com/dancohen/) maintain excellent lists [here](https://twitter.com/amandafrench/lists/digital-humanities-women) and [here](https://twitter.com/dancohen/lists/digitalhumanities); great
-    places to lurk!)
++ Twitter is worth lurking on since many digital humanities folks are on there, and that's where a lot of the field is discussed ([Amanda French](https://twitter.com/amandafrench/) and [Dan Cohen](https://twitter.com/dancohen/) maintain excellent lists [here](https://twitter.com/amandafrench/lists/digital-humanities-women) and [here](https://twitter.com/dancohen/lists/digitalhumanities).
 
-
+One of the first things we'll do (and discuss) is setting up an online scholarly identity. [We'll probably use this template to get started.](https://app.netlify.com/sites/upbeat-nobel-727f34/overview).
 
 <br><br>
 ![finger][1] Next: [Assessment](/portfolio/assessment)

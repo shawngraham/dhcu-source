@@ -31,7 +31,7 @@ Martin Hawksey, Twitter Archiving Google Sheets Project <https://tags.hawksey.in
 
 Ed Summers, Analyzing Retweets <https://inkdroid.org/2017/08/31/retweets/>
 
-Treeverse [Chrome plugin for visualizing twitter threads](https://chrome.google.com/webstore/detail/treeverse/aahmjdadniahaicebomlagekkcnlcila)
+Treeverse [Chrome plugin for visualizing twitter threads](https://chrome.google.com/webstore/detail/treeverse/aahmjdadniahaicebomlagekkcnlcila) <-
 
 Tressie McMillan Cottom, 2015. “Who Do You Think You Are?”: When Marginality Meets Academic Microcelebrity _Ada_ 7 <http://adanewmedia.org/2015/04/issue7-mcmillancottom/>
 

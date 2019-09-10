@@ -11,14 +11,13 @@ googleAnalytics = ""
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "blue"
-  description = "DIGH5000 @ Carleton U, 2017-18"
+  description = "DIGH5000 @ Carleton U, 2019-20"
   copyright = "You can find me in person in PA406 or the Library Starbucks <br><br>"
   sidebarAbout = [
-    "A graduate seminar in the digital humanities, asking:",
-    "<i>What should undergrads know about DH?</i>",
-    "Your mission: to write <b>the</b> book.",
+    "An introductory graduate seminar in the digital humanities, asking:",
+    "<i>What does DH look like in Ottawa?</i>",
     "Caveat Lector: All readings listed are mere <i>possibilities</i> and do not necessarily represent <i>canon</i>. Let them be the starting point for your explorations.",
-    "Carleton University<br> DIGH5000, 2017-2018"
+    "Carleton University<br> DIGH5000, 2019-2020"
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
